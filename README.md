@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Isabella Forero
 
 - 👀 I am interested in analytics, data mining and deep learning.
-- 🌱 I am currently learning about Big data, AI, use of Generative models, data analytics and use of technology for social purposes.
+- 🌱 I am currently learning about Big data, AI, use of Generative models, and use of technology for social purposes.
 - 💞️ I am looking to collaborate on Open Source projects.
 
 <!---
